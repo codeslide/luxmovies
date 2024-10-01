@@ -19,13 +19,14 @@ Luxmovies is a Application that allows users to download movies and web series i
 The website’s library covers a diverse range of genres, including action, romance, thriller, sci-fi, and horror. Whether you're looking for the latest movie releases or classic films, Luxmovies aims to provide something for everyone.
 
 <h2> Smilar Websites :-</h2>
-<a href='https://github.com/Luxmovies3/filmywap' target='_blank'>filmywap</a></br>
-<a href='https://github.com/Luxmovies3/movierulz' target='_blank'>movierulz</a></br>
-<a href='https://github.com/Luxmovies3/filmyzilla' target='_blank'>filmyzilla</a></br>
-<a href='https://github.com/Luxmovies3/filmy4web' target='_blank'>filmy4web</a></br>
-<a href='https://github.com/Luxmovies3/hdhub4u' target='_blank'>hdhub4u</a></br>
-<a href='https://github.com/Luxmovies3/Luxmovies' target='_blank'>Luxmovies</a></br>
-<a href='https://github.com/Luxmovies3/mp4moviez' target='_blank'>mp4moviez</a></br>
+<a href='https://github.com/codeslide/filmywap' target='_blank'>filmywap</a></br>
+<a href='https://github.com/codeslide/movierulz' target='_blank'>movierulz</a></br>
+<a href='https://github.com/codeslide/filmyzilla' target='_blank'>filmyzilla</a></br>
+<a href='https://github.com/codeslide/filmy4web' target='_blank'>filmy4web</a></br>
+<a href='https://github.com/codeslide/hdhub4u' target='_blank'>hdhub4u</a></br>
+<a href='https://github.com/codeslide/vegamovies' target='_blank'>vegamovies</a></br>
+<a href='https://github.com/codeslide/mp4moviez' target='_blank'>mp4moviez</a></br>
+<a href='https://github.com/codeslide/luxmovies' target='_blank'>Luxmovies</a></br>
 <br/>
 
 Key Features of Luxmovies
