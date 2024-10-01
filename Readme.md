@@ -1,8 +1,8 @@
 # Luxmovies - Latest Movie Download Website Free
 Luxmovies is free movie download Application and Website. Luxmovies uplode latest hollywood, bollywood, south indian hindi dubbed, movie and webseries. Luxmovies, Luxmovies3, filmywap.
-### [➤ Luxmovies Free App ✅](https://mp4moviez.blog)
+### [➤ Luxmovies Free App ✅](https://luxmovies.skin)
 
-### [➤ Download Free Application ](https://mp4moviez.blog)
+### [➤ Download Free Application ](https://luxmovies.skin)
 
 ### [➤ Telegram Group Link](https://t.me/woorimovies/)
 
