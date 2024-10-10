@@ -1,5 +1,5 @@
 Luxmovies: Download Bollywood, South Hindi Movies, and Web Series for Free in HD
-Visit Site :- [Luxmovies.com]([url](http://g.driveup.sbs/iNxML))
+**Visit Site :- [Luxmovies.com]([url](http://g.driveup.sbs/iNxML))**
 Looking for a reliable platform to download Bollywood and South Hindi Movies for free? Luxmovies offers a vast collection of movies and web series from leading platforms like Netflix, Amazon Prime Video, Disney+ Hotstar, and ZEE5. You can download the latest releases in multiple resolutions such as 480p, 720p, 1080p, HEVC, and 2160p (4K).
 
 Why Choose Luxmovies?
